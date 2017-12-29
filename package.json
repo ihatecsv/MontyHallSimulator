@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ihatecsv/MontyHallSimulator/issues"
   },
-  "homepage": "https://github.com/ihatecsv/MontyHallSimulator#readme"
+  "homepage": "https://github.com/ihatecsv/MontyHallSimulator#readme",
+  "dependencies": {
+    "chalk": "^2.3.0"
+  }
 }
